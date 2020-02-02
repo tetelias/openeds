@@ -27,3 +27,8 @@ Executing **./submission.sh** will run inference provided a folder named "test" 
 - [ ] Add Tensorboard logging
 - [ ] Add Docker support
 - [ ] Change constants to variables
+
+## Other solutions
+
+- [#1 RitNet](https://github.com/AayushKrChaudhary/RITnet)
+- [#5 Lightweight](https://github.com/th2l/Eye_VR_Segmentation)
