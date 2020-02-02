@@ -1,0 +1,9 @@
+python==3.7
+albumentations==0.3.3
+apex==0.113
+imgaug==0.2.6
+numpy==1.16.5
+opencv-python-headless==4.1.1.26
+pathlib2==2.3.4
+torch==1.2.0
+torchvision==0.4.0a0

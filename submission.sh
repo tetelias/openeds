@@ -1,0 +1,1 @@
+python train.py --saved_model data/Eye_segnet_fd_g1_e40_lr_0.010_max_dice.pth.tar 
